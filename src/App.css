@@ -1,0 +1,11 @@
+.sent {
+  color: green;
+  display: inline;
+  text-align: right;
+}
+
+.received {
+  color: red;
+  display: inline;
+  text-align: left;
+}
